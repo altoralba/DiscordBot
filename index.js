@@ -16,6 +16,7 @@ const randomGif = [
 
 // Pasting a text to be sent to a channel
 const helloWorld = `Hello World!`
+const bruh = `Bruh`
 
 client.on('ready', async msg => {
   console.log(`Logged in as ${client.user.tag}!`);
@@ -25,6 +26,9 @@ client.on('message', msg => {
   switch (msg.content) {
     case '.hello':
       msg.reply(helloWorld);
+      break;
+    case '.bruh':
+      msg.reply(bruh);
       break;
     case '.randomgif':
       const r = Math.floor(Math.random() * (randomGif.length));
