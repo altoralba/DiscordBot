@@ -12,7 +12,8 @@ const randomGif = [
   `https://www.icegif.com/wp-content/uploads/icegif-2013.gif`,
   `https://c.tenor.com/rnhV3fu39f8AAAAM/eating-anime.gif`,
   `https://i.kym-cdn.com/photos/images/newsfeed/001/052/958/ddd.gif`,
-  `https://c.tenor.com/rnhV3fu39f8AAAAM/eating-anime.gif`
+  `https://c.tenor.com/rnhV3fu39f8AAAAM/eating-anime.gif`,
+  `https://c.tenor.com/KO6BR15mTv0AAAAC/anime.gif`
 ]
 
 // Pasting a text to be sent to a channel
