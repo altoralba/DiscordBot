@@ -13,7 +13,8 @@ const randomGif = [
   `https://c.tenor.com/rnhV3fu39f8AAAAM/eating-anime.gif`,
   `https://i.kym-cdn.com/photos/images/newsfeed/001/052/958/ddd.gif`,
   `https://c.tenor.com/rnhV3fu39f8AAAAM/eating-anime.gif`,
-  `https://c.tenor.com/KO6BR15mTv0AAAAC/anime.gif`
+  `https://c.tenor.com/KO6BR15mTv0AAAAC/anime.gif`,
+  `https://c.tenor.com/mKTS5nbF1zcAAAAM/cute-anime-dancing.gif`
 ]
 
 // Pasting a text to be sent to a channel
