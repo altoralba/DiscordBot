@@ -40,6 +40,10 @@ client.on('message', msg => {
       const r = Math.floor(Math.random() * (randomGif.length));
       msg.channel.send(randomGif[r]);
       break;
+    case '.ping':
+      const timeTaken = Date.now() - message.createdTimestamp;
+      msg.reply(`Ping! This message had a latency of ${timeTaken}ms.`);
+      break;
   }
 });
 
