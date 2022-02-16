@@ -17,7 +17,8 @@ const randomGif = [
   `https://c.tenor.com/mKTS5nbF1zcAAAAM/cute-anime-dancing.gif`,
   `https://c.tenor.com/AdaSVzqCxLIAAAAC/yugioh-anime.gif`,
   `https://data.whicdn.com/images/252588371/original.gif`,
-  `https://i.gifer.com/origin/a0/a0670ea327ab388eb2d5c5cf9a28796f.gif`
+  `https://i.gifer.com/origin/a0/a0670ea327ab388eb2d5c5cf9a28796f.gif`,
+  `https://data.whicdn.com/images/160129414/original.gif`
 ]
 
 // Pasting a text to be sent to a channel
