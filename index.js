@@ -19,7 +19,8 @@ const randomGif = [
   `https://data.whicdn.com/images/252588371/original.gif`,
   `https://i.gifer.com/origin/a0/a0670ea327ab388eb2d5c5cf9a28796f.gif`,
   `https://data.whicdn.com/images/160129414/original.gif`,
-  `https://i.pinimg.com/originals/1a/31/57/1a3157cbb7154ed1e5a6c30fe6f553a1.gif`
+  `https://i.pinimg.com/originals/1a/31/57/1a3157cbb7154ed1e5a6c30fe6f553a1.gif`,
+  `https://tenor.com/view/sus-tohru-tohru-sus-sus-tohru-sussy-baka-gif-23526587`
 ]
 
 // Pasting a text to be sent to a channel
