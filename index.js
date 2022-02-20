@@ -23,6 +23,10 @@ const randomGif = [
   `https://tenor.com/view/sus-tohru-tohru-sus-sus-tohru-sussy-baka-gif-23526587`
 ]
 
+const meme = [
+  `https://tenor.com/view/lizard-dance-dance-move-hands-up-raise-em-up-gif-15829210`
+]
+
 // Pasting a text to be sent to a channel
 const helloWorld = `Hello World!`
 const bruh = `Bruh`
@@ -42,6 +46,10 @@ client.on('message', msg => {
     case '.randomgif':
       const r = Math.floor(Math.random() * (randomGif.length));
       msg.channel.send(randomGif[r]);
+      break;
+    case '.randommeme':
+      const m = Math.floor(Math.random() * (meme.length));
+      msg.channel.send(meme[m]);
       break;
     case '.ping':
       const timeTaken = Date.now() - message.createdTimestamp;
