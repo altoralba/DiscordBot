@@ -24,7 +24,8 @@ const randomGif = [
 ]
 
 const meme = [
-  `https://tenor.com/view/lizard-dance-dance-move-hands-up-raise-em-up-gif-15829210`
+  `https://tenor.com/view/lizard-dance-dance-move-hands-up-raise-em-up-gif-15829210`,
+  `https://giphy.com/gifs/marvel-cinematic-universe-mcu-pietro-maximoff-yr7n0u3qzO9nG`
 ]
 
 // Pasting a text to be sent to a channel
