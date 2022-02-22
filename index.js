@@ -21,7 +21,8 @@ const randomGif = [
   `https://data.whicdn.com/images/160129414/original.gif`,
   `https://i.pinimg.com/originals/1a/31/57/1a3157cbb7154ed1e5a6c30fe6f553a1.gif`,
   `https://tenor.com/view/sus-tohru-tohru-sus-sus-tohru-sussy-baka-gif-23526587`,
-  `https://i.pinimg.com/originals/e9/68/63/e968632456e5d02b955e221ce90288f3.gif`
+  `https://i.pinimg.com/originals/e9/68/63/e968632456e5d02b955e221ce90288f3.gif`,
+  `https://i.pinimg.com/originals/03/44/f0/0344f0f1f8f51578869e15054a3cb125.gif`
 ]
 
 const meme = [
