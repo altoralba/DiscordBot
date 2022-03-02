@@ -23,7 +23,8 @@ const randomGif = [
   `https://tenor.com/view/sus-tohru-tohru-sus-sus-tohru-sussy-baka-gif-23526587`,
   `https://i.pinimg.com/originals/e9/68/63/e968632456e5d02b955e221ce90288f3.gif`,
   `https://i.pinimg.com/originals/03/44/f0/0344f0f1f8f51578869e15054a3cb125.gif`,
-  `https://i.pinimg.com/originals/44/77/5a/44775af0c558a303b682bd26fbd4f22c.gif`
+  `https://i.pinimg.com/originals/44/77/5a/44775af0c558a303b682bd26fbd4f22c.gif`,
+  `https://giphy.com/gifs/snk-eren-jaeger-FPYsmg9ah8h3O`
 ]
 
 const meme = [
